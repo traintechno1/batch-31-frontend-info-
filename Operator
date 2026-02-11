@@ -55,5 +55,3 @@
                 (condition ? value1 : value2) -> if result of the condition is true the value1 will be returned and if result is false value2 is returned.
 
                 ex: 5 > 3 ? "value is greater" : "value is smaller";
-
-
