@@ -55,3 +55,29 @@
                 (condition ? value1 : value2) -> if result of the condition is true the value1 will be returned and if result is false value2 is returned.
 
                 ex: 5 > 3 ? "value is greater" : "value is smaller";
+
+        5) Increment/decrement:
+                These operators work on single operand.
+
+            i) pre Increment:
+            in pre Increment/decrement first the value gets changed and then used.
+                var a = 10;
+                a = a + 1; // 11
+                ++a;  // a = a + 1;
+
+            ii) post Increment:
+            in post Increment first value gets used and then gets incremented.
+                a++; // a = a + 1;
+
+
+                var a = 100;
+                var b = 200;
+                var c = --a + b++ + --b + ++a;
+                      99 + 200 + 200 + 100
+                a 100
+                b 200
+                        
+
+                console.log(a); 100, 100
+                console.log(b); 200, 200
+                console.log(c); 598, 599

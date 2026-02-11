@@ -1,0 +1,72 @@
+
+    JS control statements manage the flow of the code execution based on conditions.
+
+    1) Conditional Statements:
+
+        if(condition){
+
+        }
+
+        if(condition){
+
+        }else{
+
+        }
+
+        if(condition){
+
+        }else if(condition2){
+
+        }else if(condition2){
+
+        }else
+
+        switch(condition){
+            case 1:
+            break;
+            case 2:
+            break;
+            case 3:
+            break;
+        }
+
+    2) Looping Statements:
+        
+        i) for loop:
+
+            syntax: 
+                for(var count = 0; count < 10; count++){
+                    console.log(count);
+                }
+        
+        ii) while loop:
+                
+                syntax:
+                    while(condition is true){
+
+                    }
+        
+        iii) do while:
+                    
+        do{
+
+        }while(condition);
+
+    
+        iv) for-in:
+
+            var obj = {
+                name: "Yash",
+                city: "Pune"
+            }
+
+            for(var key in obj){
+                console.log(key);
+            }
+        v) for-of:
+
+            var obj = [1,2,3,4];
+
+            for(var val of obj){
+                console.log(val);
+            }
