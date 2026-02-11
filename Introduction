@@ -1,0 +1,24 @@
+
+
+        Web -> 
+
+            Website
+            Web application
+            Web page
+
+        
+        Fullstack Development:->
+
+
+                                    Request                            Request
+        Frontend                -------------->   Backend            ----------> Database
+        (UI)                                   (Business Logic)                (store the data)
+        User Interface          <-------------  (Middleware)         <----------
+                                    Response                          Response
+
+
+        -- It is also called as three layer architecture.
+
+        Frontend:->  HTML, CSS, JS, Angular, React, VueJS, 
+        Backend:-> Java, NodeJs, ExpressJs, Python, .Net
+        Database:-> MySQL, PostgreSql, Oracle, MongoDb..

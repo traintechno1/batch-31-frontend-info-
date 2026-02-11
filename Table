@@ -1,0 +1,20 @@
+
+
+    Table is used to show data in the structural format.
+    It is a collection of rows and columns.
+
+    To create a table in HTML, we have <table></table>
+
+
+
+    Sr No       First Name          Last Name
+    1           Yash                Jadhav
+    2           Nikhil              Test
+    3           Rahul               Prasad
+
+    <table></table>
+    <tr></tr>
+    <td></td>
+    <th></th>
+    <thead></thead>
+    <tbody></tbody>

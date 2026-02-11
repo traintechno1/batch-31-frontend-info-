@@ -1,0 +1,113 @@
+
+
+        CSS: Cascading Stylesheet
+
+
+        CSS Property Syntax:
+            property: value;
+
+        ex:
+        color: red;
+
+
+        How to use CSS on HTML Element?
+        
+        there are three ways in which CSS can be used on HTML.
+
+        1) Inline CSS -> A CSS written in a HTML tag itself with style attribute.
+        2) Internal CSS -> It is a styles present inside html but not in the html elements.
+        3) External CSS -> It is new/seperate Css file. the extention of the file is .css
+
+
+        CSS selectors
+            1) Using Tag Name
+            2) Clsss
+            3) Id
+
+
+            class syntax: -> .class-name{
+                properties
+            }
+
+            id syntax: -> #id-name{
+                properties
+            }
+
+
+
+            Colors:
+
+            RGB -> Red Green Blue
+
+            Red-> 256  Range -> 0-255
+            Green -> 256  Range -> 0-255
+            Blue-> 256  Range -> 0-255
+
+            256 * 256 * 256 => 16777216
+
+
+
+            123 -> (1 * 10^2) + (2 * 10^1) + (3 * 10^0) = 100 + 20 + 3
+
+
+            11110 -> (1* 2^2) + (1 * 2^1) + (0 * 2^0)  = 16 + 8 + 4 +  2 + 0 => 30
+
+            Binary => 2, value=> 0, 1  valid number=> 0011010101,  Invalid Number => 01234
+            Decimal => 10, values=> 0,1,2,3,4,5,6,7,8,9, valid number=> 12986735, Invalid Number=> 867412A
+            Hexadecimal => 16, values=> 0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F => valid => AB01DF,Invalid= ZW01RF
+
+            AB01DF => Valid Hexadecimal Number
+
+            FF => 15 * 10^1 + 15 * 10^0 => 150 + 15 * 1 = 165
+
+            00 - FF => 16 * 16
+
+            Hexadecimal Color: 
+            #(0-F)(0-F)(0-f)(0-f)(0-f)(0-f)
+
+
+
+            Sizes:
+
+            px-> 
+            1em = 16px  -> 1.5em = 24px -> 0.5em = 8px, 3em = 48px
+            rem
+            %
+            vw
+            vh
+            cm
+            in
+            mm
+
+                            margin
+                            border
+                            padding
+                            element
+
+
+
+
+
+            Padding: 
+
+                we can give
+
+                padding: 20px -> it will apply to top, right, bottom, left = 20px
+                padding: 10px 20px -> top and bottom = 10px, left and right = 20px
+                padding: 10px 20px 30px-> top = 10px , left and right = 20px, bottom = 30px
+                padding: 10px 20px 30px 40px -> top = 10px, right = 20px, bottom = 30px, left = 40px
+
+
+
+
+
+                250 -------> 2500px
+
+
+                min-width: 980 and max-width: 1200px{
+
+
+                }
+
+
+                350             767 768         1200 1201             2400

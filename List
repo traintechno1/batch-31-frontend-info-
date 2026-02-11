@@ -1,0 +1,8 @@
+
+    List is a collection/grouping of things.
+
+    in HTML there are two types of lists:
+    1) Ordered List
+    2) Unordered List
+
+    In ordere to create ordered list the base tag is: <ol></ol>

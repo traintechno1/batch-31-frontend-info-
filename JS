@@ -1,0 +1,55 @@
+                                        Javascript
+    
+    - Javascript is a high level, interpreted/Just-in-time programming language
+    - it is used to make web pages interactive and dynamic.
+
+      JS is a interpreted language: the program not gets converted to machine code.
+
+    what we can do with JS?
+      respond to user actions (mouse click, button click)
+      DOM manipulation
+      Call APIs to handle the data
+      Build the full stack applications. (both FE and BE)
+
+    JS was invented in year 1995- Developed by Netscape
+
+    in JS we will see ES6
+
+    FE modern libraries/frameworks like React, Angular, Vue are build using JS
+    BE NodeJs, NestJs are build using JS
+
+
+  Js can be executed in different ways:
+    1) through HTML   -> it will run JS in the browser
+    2) using nodeJs   -> it will run JS on the server
+
+  v8 engine is used to run JS program.
+
+
+  JS is a dynamically typed language.
+
+  Datatypes:
+    number
+    string
+    boolean
+    object
+    
+    
+    null, undefined
+
+
+    Array: it is a collection of elements of any data type.
+
+    syntax: 
+      var arr = [value1, value2, value3];
+
+  Object: Object is a data in the key, value pair format.
+
+    syntax:
+      var obj = {
+        key: "value",
+        key1: "value",
+        key2: "value",
+        key3: "value",
+      }
+      

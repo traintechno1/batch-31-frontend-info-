@@ -1,0 +1,15 @@
+
+    It is a group of pixels, it is a form of media.
+
+    there are many types/ extentions of images.
+    ex: 
+        .svg
+        .png
+        .jpg
+        .jpeg
+        .dsc
+        .gif
+
+    To show the image in the html page we have <img>.
+
+    Image is a self closing tag.
