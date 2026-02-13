@@ -1,0 +1,41 @@
+
+        JS is a functional programming language.
+        Function is a reusable piece of code that can be written once and
+        used as many times as we want.
+
+        in function there are two things to be remembered: 
+            1) function declaration -> here function is created which can be later used.
+            2) function invocation/call -> this is a function call/use.
+
+        there are two ways in which a function can be declared in JS:
+
+        1) using function keyword(traditional way of function declaration):
+
+            syntax:
+            function function_name(parameters){
+                // actual function implementation
+            } 
+
+            //call
+            function_name();
+        
+        2) using arrow syntax:
+
+            syntax: 
+                var function_name = (parameters) => {
+                    // actual function implementation
+                }
+
+                function_name();
+
+        3) function expression:
+
+                var function_name = function(parameters){
+                    // actual function implementation
+                }
+
+        Pure Function:
+                this is not a type of function but it is concept.
+
+            a pure function takes inputs(arguments), produces an result but never
+             modifies or depends on any external variables outside its scope.
